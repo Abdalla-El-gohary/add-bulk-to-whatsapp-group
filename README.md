@@ -1,10 +1,10 @@
 # WhatsApp Group Member Adder
 
-## Description
-This project automates the process of adding members to a WhatsApp group using Selenium. It allows users to log in to WhatsApp Web, search for a group, open its settings, and add contacts automatically.
-
+📌 ## Overview
+🚀 A Selenium-based Python script to automate adding contacts to a WhatsApp group on WhatsApp Web.
+Built for efficiency & ease of use, this automation helps streamline adding members to WhatsApp groups without manual effort. 🎯
 ## Features
-- Automates login to WhatsApp Web
-- Searches for a specific WhatsApp group
-- Adds multiple contacts to the group
-- Uses Selenium WebDriver for automation
+- 🔍 Search and open a group automatically
+- ⚙️ Navigate to group settings with ease
+- 📌 Add multiple contacts from a predefined list
+- ⏳ Handles UI delays to ensure smooth execution
